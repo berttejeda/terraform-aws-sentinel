@@ -2,8 +2,6 @@
 
 Terraform workspace which creates all resources to connect integrate your AWS account with Microsoft Azure Sentinel.
 
-It creates all resources required for the Microsoft Sentinel AWS Connector.
-
 Feel free to acquaint yourself with the Microsoft Sentinel Documentation
   - Connect Microsoft Sentinel to Amazon Web Services to ingest AWS service log data | Microsoft Learn
     https://learn.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=s3#add-the-aws-role-and-queue-information-to-the-s3-data-connector
